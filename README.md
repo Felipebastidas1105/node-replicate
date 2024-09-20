@@ -17,7 +17,7 @@ Actualmente es un proyecto simple el cuando usa un modelo de Inteligencia Artifi
 
 En caso de clonar el repositorio se debe tener en cuenta dos pasos antes de su ejecucion
 
-<b>1.</b>Crear una variable de entorno con la API_KEY de replicate para asi  poder hacer uso de sus modelos
+<b>1.</b> Crear una variable de entorno con la API_KEY de replicate para asi  poder hacer uso de sus modelos
 <br/>
 <b>2.</b> Instalar los paquetes registrados en el package.json usando npm install, bun install etc.
 
