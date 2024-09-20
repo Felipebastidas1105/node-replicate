@@ -7,7 +7,7 @@ Codigo basico de uso de Replicate con node, donde podemos usar distintos modelos
 </p>
 </div>
 
- ## About The Project
+ ## Sobre el proyecto
 
 ![Product Screenshot](https://picsum.photos/1920/1080)
 
@@ -17,8 +17,9 @@ Actualmente es un proyecto simple el cuando usa un modelo de Inteligencia Artifi
 
 En caso de clonar el repositorio se debe tener en cuenta dos pasos antes de su ejecucion
 
-1.Crear una variable de entorno con la API_KEY de replicate para asi  poder hacer uso de sus modelos
-2.Instalar los paquetes registrados en el package.json usando npm install, bun install etc.
+<b>1.</b>Crear una variable de entorno con la API_KEY de replicate para asi  poder hacer uso de sus modelos
+<br/>
+<b>2.</b> Instalar los paquetes registrados en el package.json usando npm install, bun install etc.
 
 
 ## Acerca de mi
